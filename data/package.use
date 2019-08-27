@@ -1,0 +1,6 @@
+# required by x11-libs/gtk+-3.24.8::gentoo
+# required by x11-themes/adwaita-icon-theme-3.30.1::gentoo
+# required by x11-libs/gtk+-2.24.32-r1::gentoo
+# required by x11-themes/gtk-engines-adwaita-3.28::gentoo
+>=x11-libs/cairo-1.16.0-r3 X
+
